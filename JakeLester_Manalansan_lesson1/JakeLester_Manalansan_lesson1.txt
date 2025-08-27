@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<title>I'm Jake Lester T. Manalansan</title>
+</head>
+<body>
+      <h2>About Me<br><br> Jake Lester T. Manalansan</h2>
+      <p>i'm fascinated by the wolrd of computers and coding, and i'm excited to purpuse a career.
+</body>
+</html>
